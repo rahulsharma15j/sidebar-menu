@@ -1,0 +1,19 @@
+/* Google Fonts "Josefin" */
+@import url("https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@100;200;300;400;500&display=swap");
+
+:root {
+  --blue: #2192ff;
+  --blue-light: rgb(33, 146, 255, 0.2);
+  --white: #fff;
+  --black: #000;
+  --grey: #ccd1e4;
+  --border: 1px solid var(--grey);
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+  box-sizing: border-box;
+  font-family: "Josefin Sans", sans-serif;
+}
